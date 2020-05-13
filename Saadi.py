@@ -82,8 +82,8 @@ print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   [�
 \033[1;93m [¤] \x1b[0;31mTOOLS BY AAHIL\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : AAHIL CREATIONSs\x1b[0;31m"""
 print " \x1b[1;93m⚔══════════════════════════☠═══════════════════════════⚔"
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "saadi"
+CorrectPassword = "saadi"
 
 loop = 'true'
 while (loop == 'true'):
